@@ -35,3 +35,14 @@ h2{
     margin-right: 10%;
     padding: 10px 5px;
 }
+
+a.back-home {
+    background-color: #7D9D9C;
+    color: #E4DCCF;
+    font-weight: bold;
+    display: block;
+    margin-right: 60%;
+    margin-left: 10%;
+    margin-top: 10px;
+    border: 3px solid #576F72;
+}
